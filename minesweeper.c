@@ -5,7 +5,6 @@
 #include <ctype.h>
 
 
-
 /* 
     Array values:
     1 - 8: Number tile closed
