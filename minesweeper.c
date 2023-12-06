@@ -184,7 +184,6 @@ int main(void)
                     }
                 }
                 
-                
                 if(board[ig][jg] == 10)
                 {
                     open(board,ig,jg,n,m);
